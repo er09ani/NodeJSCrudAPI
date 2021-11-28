@@ -1,0 +1,27 @@
+{
+  "name": "learning3_crudapi",
+  "version": "1.0.0",
+  "description": "crud api learning with mongo db , express js, and node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/er09ani/NodeJSCrudAPI.git"
+  },
+  "author": "er09ani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/er09ani/NodeJSCrudAPI/issues"
+  },
+  "homepage": "https://github.com/er09ani/NodeJSCrudAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
